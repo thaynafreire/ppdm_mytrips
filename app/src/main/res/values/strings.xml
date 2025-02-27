@@ -2,6 +2,8 @@
     <string name="app_name">MyTrips</string>
     <string name="login">Login</string>
     <string name="login_subtitle">Please sign in to continue.</string>
+    <string name="text_field_email">E-mail</string>
+    <string name="text_field_password">Password</string>
     <string name="button_sign_in">SIGN IN</string>
     <string name="sign_up">Don\'t have an account?</string>
     <string name="sign_up_link">Sign Up</string>
